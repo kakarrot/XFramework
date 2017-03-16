@@ -1,4 +1,4 @@
-package com.xulee.xframework;
+package com.xulee.core;
 
 import org.junit.Test;
 
